@@ -1,8 +1,8 @@
 package wrike
 
 import (
-	"github.com/AkihikoITOH/wrike.go/parameters"
-	types "github.com/AkihikoITOH/wrike.go/types"
+	"github.com/golyakov/wrike.go/parameters"
+	types "github.com/golyakov/wrike.go/types"
 	"github.com/google/go-querystring/query"
 )
 

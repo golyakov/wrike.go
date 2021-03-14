@@ -1,6 +1,6 @@
 package parameters
 
-import "github.com/AkihikoITOH/wrike.go/types"
+import "github.com/golyakov/wrike.go/types"
 
 type Settings struct {
 	InheritanceType       *string      `url:"inheritanceType,omitempty"`

@@ -1,4 +1,4 @@
-module github.com/AkihikoITOH/wrike.go
+module github.com/golyakov/wrike.go
 
 go 1.14
 

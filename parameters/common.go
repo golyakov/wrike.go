@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"net/url"
 
-	"github.com/AkihikoITOH/wrike.go/types"
+	"github.com/golyakov/wrike.go/types"
 )
 
 type FolderIDSet []types.FolderID

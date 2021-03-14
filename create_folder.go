@@ -3,8 +3,8 @@ package wrike
 import (
 	"fmt"
 
-	"github.com/AkihikoITOH/wrike.go/parameters"
-	"github.com/AkihikoITOH/wrike.go/types"
+	"github.com/golyakov/wrike.go/parameters"
+	"github.com/golyakov/wrike.go/types"
 	"github.com/google/go-querystring/query"
 )
 

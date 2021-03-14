@@ -8,8 +8,8 @@ import (
 
 	"gotest.tools/assert"
 
-	wrike "github.com/AkihikoITOH/wrike.go"
-	"github.com/AkihikoITOH/wrike.go/parameters"
+	wrike "github.com/golyakov/wrike.go"
+	"github.com/golyakov/wrike.go/parameters"
 )
 
 var folderTreeData = []byte(

@@ -6,7 +6,7 @@ import (
 
 	"gotest.tools/assert"
 
-	"github.com/AkihikoITOH/wrike.go/types"
+	"github.com/golyakov/wrike.go/types"
 )
 
 var allAccountsData = []byte(

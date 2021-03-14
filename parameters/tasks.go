@@ -3,7 +3,7 @@ package parameters
 import (
 	"net/url"
 
-	types "github.com/AkihikoITOH/wrike.go/types"
+	types "github.com/golyakov/wrike.go/types"
 )
 
 const (

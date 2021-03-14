@@ -9,7 +9,7 @@ import (
 
 	"gotest.tools/assert"
 
-	wrike "github.com/AkihikoITOH/wrike.go"
+	wrike "github.com/golyakov/wrike.go"
 )
 
 const (

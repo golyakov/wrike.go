@@ -9,9 +9,9 @@ import (
 
 	"gotest.tools/assert"
 
-	wrike "github.com/AkihikoITOH/wrike.go"
-	"github.com/AkihikoITOH/wrike.go/parameters"
-	"github.com/AkihikoITOH/wrike.go/types"
+	wrike "github.com/golyakov/wrike.go"
+	"github.com/golyakov/wrike.go/parameters"
+	"github.com/golyakov/wrike.go/types"
 )
 
 var createdCustomFieldData = []byte(
